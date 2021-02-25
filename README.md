@@ -1,2 +1,2 @@
 # resumeBasic
-REsume designed with the help of HTML and CSS.
+Resume designed with the help of HTML and CSS.
